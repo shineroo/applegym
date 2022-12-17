@@ -23,6 +23,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/AdminAtaskaita.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5BdGFza2FpdGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/AdminKurtiNaujiena.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5LdXJ0aU5hdWppZW5hLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/AdminSalintiNaujiena.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5TYWxpbnRpTmF1amllbmEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/AdminValdytiVartotojus.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5WYWxkeXRpVmFydG90b2p1cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -59,8 +75,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/Treneriai.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlbmVyaWFpLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/Treniruotes.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlbmlydW90ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/TreniruotesKurimas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlbmlydW90ZXNLdXJpbWFzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/aqwe/3k1p/ISP/blazor proj/applegym/Shared/SurveyPrompt.razor]
