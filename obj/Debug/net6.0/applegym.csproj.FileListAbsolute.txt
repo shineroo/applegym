@@ -25,3 +25,35 @@ F:\aqwe\3k1p\ISP\blazor proj\applegym\obj\Debug\net6.0\refint\applegym.dll
 F:\aqwe\3k1p\ISP\blazor proj\applegym\obj\Debug\net6.0\applegym.pdb
 F:\aqwe\3k1p\ISP\blazor proj\applegym\obj\Debug\net6.0\applegym.genruntimeconfig.cache
 F:\aqwe\3k1p\ISP\blazor proj\applegym\obj\Debug\net6.0\ref\applegym.dll
+C:\Users\gsts\Documents\GitHub\applegym\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gsts\Documents\GitHub\applegym\bin\Debug\net6.0\appsettings.json
+C:\Users\gsts\Documents\GitHub\applegym\bin\Debug\net6.0\applegym.staticwebassets.runtime.json
+C:\Users\gsts\Documents\GitHub\applegym\bin\Debug\net6.0\applegym.exe
+C:\Users\gsts\Documents\GitHub\applegym\bin\Debug\net6.0\applegym.deps.json
+C:\Users\gsts\Documents\GitHub\applegym\bin\Debug\net6.0\applegym.runtimeconfig.json
+C:\Users\gsts\Documents\GitHub\applegym\bin\Debug\net6.0\applegym.dll
+C:\Users\gsts\Documents\GitHub\applegym\bin\Debug\net6.0\applegym.pdb
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\applegym.csproj.AssemblyReference.cache
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\applegym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\applegym.AssemblyInfoInputs.cache
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\applegym.AssemblyInfo.cs
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\applegym.csproj.CoreCompileInputs.cache
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\applegym.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\applegym.RazorAssemblyInfo.cache
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\applegym.RazorAssemblyInfo.cs
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\staticwebassets\msbuild.applegym.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\staticwebassets\msbuild.build.applegym.props
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.applegym.props
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.applegym.props
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\scopedcss\bundle\applegym.styles.css
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\scopedcss\projectbundle\applegym.bundle.scp.css
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\applegym.dll
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\refint\applegym.dll
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\applegym.pdb
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\applegym.genruntimeconfig.cache
+C:\Users\gsts\Documents\GitHub\applegym\obj\Debug\net6.0\ref\applegym.dll

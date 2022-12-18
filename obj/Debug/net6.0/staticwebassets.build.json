@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mJ/t1OkC1bpNBBRQMZLnaKCWVnuTWD0VMBEuojCMNos=",
+  "Hash": "QMbS4FcPL+0kzIwuTg8+1YwX3CfFRfB6FfKnVlgcBj4=",
   "Source": "applegym",
   "BasePath": "_content/applegym",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "applegym\\wwwroot",
       "Source": "applegym",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\",
       "BasePath": "_content/applegym",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\obj\\Debug\\net6.0\\scopedcss\\bundle\\applegym.styles.css",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\obj\\Debug\\net6.0\\scopedcss\\bundle\\applegym.styles.css",
       "SourceId": "applegym",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/applegym",
       "RelativePath": "applegym.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\obj\\Debug\\net6.0\\scopedcss\\bundle\\applegym.styles.css"
+      "OriginalItemSpec": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\obj\\Debug\\net6.0\\scopedcss\\bundle\\applegym.styles.css"
     },
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\applegym.bundle.scp.css",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\applegym.bundle.scp.css",
       "SourceId": "applegym",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/applegym",
       "RelativePath": "applegym.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\applegym.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\applegym.bundle.scp.css"
     },
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "applegym",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\",
       "BasePath": "_content/applegym",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "applegym",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\",
       "BasePath": "_content/applegym",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "applegym",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\",
       "BasePath": "_content/applegym",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "applegym",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\",
       "BasePath": "_content/applegym",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "applegym",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\",
       "BasePath": "_content/applegym",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "applegym",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\",
       "BasePath": "_content/applegym",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "applegym",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\",
       "BasePath": "_content/applegym",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "applegym",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\",
       "BasePath": "_content/applegym",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "applegym",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\",
       "BasePath": "_content/applegym",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "applegym",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\",
       "BasePath": "_content/applegym",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "applegym",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\",
       "BasePath": "_content/applegym",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\css\\site.css",
       "SourceId": "applegym",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\",
       "BasePath": "_content/applegym",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\favicon.ico",
       "SourceId": "applegym",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\aqwe\\3k1p\\ISP\\blazor proj\\applegym\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gsts\\Documents\\GitHub\\applegym\\wwwroot\\",
       "BasePath": "_content/applegym",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

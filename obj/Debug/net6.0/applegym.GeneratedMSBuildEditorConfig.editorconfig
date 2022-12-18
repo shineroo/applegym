@@ -5,112 +5,121 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = applegym
 build_property.RootNamespace = applegym
-build_property.ProjectDir = F:\aqwe\3k1p\ISP\blazor proj\applegym\
+build_property.ProjectDir = C:\Users\gsts\Documents\GitHub\applegym\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\aqwe\3k1p\ISP\blazor proj\applegym
+build_property.MSBuildProjectDirectory = C:\Users\gsts\Documents\GitHub\applegym
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/App.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/Admin.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/Admin.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/AdminAtaskaita.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/AdminAtaskaita.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5BdGFza2FpdGEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/AdminKurtiNaujiena.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/AdminKurtiNaujiena.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5LdXJ0aU5hdWppZW5hLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/AdminSalintiNaujiena.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/AdminSalintiNaujiena.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5TYWxpbnRpTmF1amllbmEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/AdminValdytiVartotojus.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/AdminValdytiVartotojus.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5WYWxkeXRpVmFydG90b2p1cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/Counter.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/FetchData.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/Index.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/Naryste.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/Naryste.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmFyeXN0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/Prisijungti.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/Prisijungti.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpc2lqdW5ndGkucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/Profilis.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/Profilis.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsaXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/ProfilisRedaguoti.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/ProfilisRedaguoti.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsaXNSZWRhZ3VvdGkucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/Registruotis.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/Registruotis.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cnVvdGlzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/Tester.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/Tester.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/Treneriai.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/Treneriai.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlbmVyaWFpLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/Treniruotes.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/Treniruotes.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlbmlydW90ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/TreniruotesKurimas.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/TreniruotesKurimas.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlbmlydW90ZXNLdXJpbWFzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Shared/SurveyPrompt.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/TreniruotesLankytojai.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlbmlydW90ZXNMYW5reXRvamFpLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/TreniruotesSiustiLaiska.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJlbmlydW90ZXNTaXVzdGlMYWlza2EucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gsts/Documents/GitHub/applegym/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/_Imports.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Shared/MainLayout.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-boc0o319wt
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Shared/NavMenu.razor]
+[C:/Users/gsts/Documents/GitHub/applegym/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-a5evbx1tbe
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/Error.cshtml]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/_Host.cshtml]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/aqwe/3k1p/ISP/blazor proj/applegym/Pages/_Layout.cshtml]
+[C:/Users/gsts/Documents/GitHub/applegym/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
